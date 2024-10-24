@@ -18,6 +18,7 @@ PowerBI Dashboard can be found [here](https://github.com/ziyaanrupani/adventurew
 
 ## Executive Summary
 Adventure Works has grown substantially, generating $24.9M in total revenue and $10.5M in profit. Over 25k orders have been placed with an average return rate of 2.2%. Although not all categories of products hit monthly targets, revenue still increased and has followed that trend for most periods. 
+
 Product performance varies across categories:
 * Accessories: $906K in revenue, ~17K orders, 2.0% return rate.
 * Bikes: $23.6M, ~13.9K orders, 3.1% return rate.
