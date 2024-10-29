@@ -24,7 +24,7 @@ Product performance varies across categories:
 * Bikes: $23.6M, ~13.9K orders, 3.1% return rate.
 * Clothing: $365K revenue, ~7K orders, 2.2% return rate.
 
-The customer base includes 17.4K unique customers, with an average revenue of $1431 per customer. The customer segment is diverse and ranges in income and occupation. The business surged in August 2021 as there was a substantial increase in customers and since then the numbers have grown steadily.  
+The customer base includes 17.4K unique customers, with an average revenue of $1,431 per customer. The customer segment is diverse and ranges in income and occupation. The business surged in August 2021 as there was a substantial increase in customers and since then the numbers have grown steadily.  
 
 ## Insights Deep Dive
 ### Revenue & Profitability
@@ -46,33 +46,22 @@ The customer base includes 17.4K unique customers, with an average revenue of $1
     * The AWC cap is the top-performing item among clothing merchandise in terms of sales volume, though it generates relatively low revenue.
 
 ### Customer
+* Each of the top 10 customers contributed over $10,000 in revenue.
+    * Maurice Shan is the top customer with over $12,000 in revenue from 6 orders.
+* Customer Growth:
+   * In its first year of business, 2,630 unique customers generated an average revenue of approximately $2,500 each. Most of the customers bought a road bike, resulting in a higher revenue for customers.
+   * The next year the number of unique customers grew 247%. The 9,000 customers had an average revenue of $1,000. An increasing number of customers opt to purchase lower-cost items rather than just bikes.
+   * Customer segment grew 14% the following year as well but not as drastically as the previous one.
+* Customer Demographic:
+   * 41% of all customers belong to the low-income bracket, 46% to average, and 11% to high.
+   * When broken down by occupation - 32% of customers are in skilled/manual work, 43% are professionals, and 24% are in management.
+   * All customer segments grew in tandem, suggesting that marketing campaigns were likely broad-based and directed at the general public rather than tailored to specific demographics.
 
 ## Recommendations
-*Marketing mid 2021.
-*Consumer fatigue post holiday.
-*boost revenue for top 5 most selling products
-*deal for clothing with cap
-*decrease mountain bike return rate
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Revisit successful mid-2021 campaigns, partnerships, and promotions to increase repeat purchases. Target customers from this period with personalized offers and prioritize high conversion channels for the future. 
+* Launch a new year promotion emphasizing upgrades and maintenance to offset early-year revenue dips due to post-holiday consumer fatigue. Roll out promotions on essential accessories.
+* Offer discounts on merchandise that are relatively low in sale volume. Use AWC cap, the top-selling product, as an anchor for clothing promotions to drive sales.
+* Focus on quality improvement and customer guidance for mountain bikes to reduce return rates. Introduce a quality assurance program and offer consultations to help customers select the right model for their needs.
+* Analyze high-revenue demographics and shift from broad marketing to more targeted strategies for these key groups.       
 
 
