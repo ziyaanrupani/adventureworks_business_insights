@@ -8,7 +8,8 @@ Adventure Works, a bike and accessories retailer, has been tracking key performa
 
 ![image](https://github.com/user-attachments/assets/1bbac715-7d87-4267-8567-01676702d7a5)
 
-PowerBI Dashboard can be found [here](https://github.com/ziyaanrupani/adventureworks_business_insights/tree/main/dashboard)
+* The PowerBI dashboards are accessible [here.](https://github.com/ziyaanrupani/adventureworks_business_insights/tree/main/dashboard)
+* The data can be found [here.](https://github.com/ziyaanrupani/adventureworks_business_insights/tree/main/data)
 
 ## Executive Summary
 Adventure Works has grown substantially, generating $24.9M in total revenue and $10.5M in profit. Over 25k orders have been placed with an average return rate of 2.2%. Although not all categories of products hit monthly targets, revenue still increased and has followed that trend for most periods. 
